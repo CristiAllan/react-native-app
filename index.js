@@ -6,4 +6,5 @@ const App = () => (
   <Header />
 );
 
+
 AppRegistry.registerComponent('albums', () => App);
